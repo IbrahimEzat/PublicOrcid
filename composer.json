@@ -1,10 +1,10 @@
 {
-    "name": "socialiteproviders/orcid",
+    "name": "IbrahimEzat/PublicOrcid",
     "description": "ORCID OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ibrahim Ezzat",
+            "name": "IbrahimEzat",
             "email": "eng.iezzat@gmail.com"
         }
     ],
