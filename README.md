@@ -1,7 +1,7 @@
 # Orcid
 
 ```bash
-composer require socialiteproviders/orcid
+composer require IbrahimEzat/PublicOrcid
 ```
 
 ## Installation & Basic Usage
